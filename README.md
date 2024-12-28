@@ -72,7 +72,7 @@ The image below demonstrates how the files are encrypted into a ZIP archive:
 ### Decrypting Files
 The image below shows the process of decrypting an encrypted folder:
 
-![Decryption Process](images/decryptingOneofTheFolders.jpeg)
+![Decryption Process](images/decryptingOneoftheFolders.jpeg)
 
 ### Folder Structure
 The image below illustrates the folder structure after performing encryption:
@@ -91,6 +91,3 @@ The image below illustrates the folder structure after performing encryption:
 Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
